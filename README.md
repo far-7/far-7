@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @far-7
-- 👀 I’m interested in full stack developer 
-- 🌱 I’m currently learning c++/javascript
+- 👀 I’m a  developer 
+- 🌱 i do all stuff related to software
 - 📫  reach me on insta:- _.farisali
 
 <!---
